@@ -1,0 +1,13 @@
+champion,enemy_champion,result,damage_dealt
+Ahri,Zed,Win,23000
+Ahri,Yasuo,Lose,18000
+Ahri,Zed,Lose,15000
+Ahri,LeBlanc,Lose,17000
+Ahri,Zed,Win,21000
+Yasuo,Zed,Lose,25000
+Yasuo,LeBlanc,Win,30000
+Yasuo,Zed,Win,28000
+Yasuo,Ahri,Win,26000
+LeBlanc,Yasuo,Lose,22000
+LeBlanc,Ahri,Win,24000
+LeBlanc,Zed,Win,20000
