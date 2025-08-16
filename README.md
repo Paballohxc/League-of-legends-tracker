@@ -10,3 +10,9 @@ It helps you track which champion you play the most, which champions you struggl
 - Track your **most played champion** and see your win rate with them.
 - Find the **champion you lose to the most** and get counter tips.
 - Outputs results in the terminal and saves a **Markdown report (`report.md`)**.
+  
+dependencies
+pandas
+matplotlib
+tabulate
+
