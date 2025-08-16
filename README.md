@@ -9,6 +9,4 @@ It helps you track which champion you play the most, which champions you struggl
 ## Features
 - Track your **most played champion** and see your win rate with them.
 - Find the **champion you lose to the most** and get counter tips.
-- Analyze your **average damage dealt per match**.
-- Suggest **ways to improve** with your main champion.
 - Outputs results in the terminal and saves a **Markdown report (`report.md`)**.
